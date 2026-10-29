@@ -1,0 +1,6 @@
+{
+  "name": "Tally Journal Entry Solver",
+  "description": "Professional accounting transaction solver for Tally Prime and ERP 9 with Voucher Type shortcut determination, Dr/Cr ledger separation, and Golden Rules analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
